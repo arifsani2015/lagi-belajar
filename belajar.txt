@@ -1,4 +1,4 @@
 Disini kita akan memelajari cara menambahkan file di Github
 Caranya seperti membuat file biasa di komputer
 Hanya saja, akan ada beberapa hal yang harus dicentang
-Tidak terlalu sulit, hal yang terpenting adalah keharusan dalam cermat.
+
