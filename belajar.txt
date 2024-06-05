@@ -1,0 +1,2 @@
+Disini kita akan memelajari cara menambahkan file di Github
+Caranya seperti membuat file biasa di komputer
